@@ -10,4 +10,4 @@ It's very simple! Just:
 2. Then, Extract the ZIP File.  
 3. Run the **FlagReplacer.exe** file.
 
-###### made by fl4mxr1
+###### made by fl4mxr1, original json by l8x. if you want the real rco, go to https://github.com/L8X/Roblox-Client-Optimizer.
